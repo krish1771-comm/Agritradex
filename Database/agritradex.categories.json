@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "69da45d133615f54002d395e"
+  },
+  "name": "Grains",
+  "slug": "grains",
+  "description": "Organic grains and cereals",
+  "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=600",
+  "icon": "🌾",
+  "parentCategory": null,
+  "subCategories": [],
+  "isActive": true,
+  "displayOrder": 1,
+  "productCount": 3,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3961"
+  },
+  "name": "Spices",
+  "slug": "spices",
+  "description": "Organic spices and seasonings",
+  "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?w=600",
+  "icon": "🌿",
+  "parentCategory": null,
+  "subCategories": [],
+  "isActive": true,
+  "displayOrder": 4,
+  "productCount": 3,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.400Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3960"
+  },
+  "name": "Vegetables",
+  "slug": "vegetables",
+  "description": "Fresh organic vegetables",
+  "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=600",
+  "icon": "🥕",
+  "parentCategory": null,
+  "subCategories": [],
+  "isActive": true,
+  "displayOrder": 3,
+  "productCount": 3,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.400Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3962"
+  },
+  "name": "Mirchi",
+  "slug": "mirchi",
+  "description": "Fresh and dried chilies",
+  "image": "https://mybageecha.com/cdn/shop/products/chili-pepper.jpg?v=1571438538",
+  "icon": "🌶️",
+  "parentCategory": null,
+  "subCategories": [],
+  "isActive": true,
+  "displayOrder": 5,
+  "productCount": 5,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.400Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3963"
+  },
+  "name": "Dry Fruits",
+  "slug": "dry-fruits",
+  "description": "Premium organic dry fruits",
+  "image": "https://m.media-amazon.com/images/I/71m18e2dMAL._AC_UF894,1000_QL80_.jpg",
+  "icon": "🥜",
+  "parentCategory": null,
+  "subCategories": [],
+  "isActive": true,
+  "displayOrder": 6,
+  "productCount": 4,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.400Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d395f"
+  },
+  "name": "Fruits",
+  "slug": "fruits",
+  "description": "Fresh organic fruits",
+  "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=600",
+  "icon": "🍎",
+  "parentCategory": null,
+  "subCategories": [],
+  "isActive": true,
+  "displayOrder": 2,
+  "productCount": 3,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.422Z"
+  },
+  "__v": 0
+}]

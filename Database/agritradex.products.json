@@ -1,0 +1,798 @@
+[{
+  "_id": {
+    "$oid": "69da45d133615f54002d3936"
+  },
+  "name": "Organic Brown Rice",
+  "slug": "organic-brown-rice",
+  "description": "Whole grain organic brown rice",
+  "longDescription": "Nutrient-rich brown rice with high fiber content, perfect for health-conscious individuals.",
+  "category": "Grains",
+  "subCategory": "",
+  "price": 110,
+  "originalPrice": 140,
+  "unit": "kg",
+  "quantity": 40,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.3,
+  "numReviews": 18,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3935"
+  },
+  "name": "Organic Wheat Flour (Atta)",
+  "slug": "organic-wheat-flour-atta",
+  "description": "Stone-ground organic whole wheat flour",
+  "longDescription": "Made from premium organic wheat, stone-ground to preserve nutrients and natural taste.",
+  "category": "Grains",
+  "subCategory": "",
+  "price": 65,
+  "originalPrice": 80,
+  "unit": "kg",
+  "quantity": 75,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.2,
+  "numReviews": 15,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3934"
+  },
+  "name": "Organic Basmati Rice",
+  "slug": "organic-basmati-rice",
+  "description": "Premium quality organic basmati rice grown in the foothills of Himalayas.",
+  "longDescription": "Our organic basmati rice is cultivated using traditional farming methods without any chemical pesticides or fertilizers. The grains are aged for 1 year to enhance their aroma and cooking quality.",
+  "category": "Grains",
+  "subCategory": "",
+  "price": 120,
+  "originalPrice": 150,
+  "unit": "kg",
+  "quantity": 50,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.826Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.5,
+  "numReviews": 24,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.345Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3937"
+  },
+  "name": "Organic Alphonso Mangoes",
+  "slug": "organic-alphonso-mangoes",
+  "description": "King of mangoes - sweet and aromatic",
+  "longDescription": "Premium Alphonso mangoes grown organically in the Ratnagiri region. Known for their rich flavor and creamy texture.",
+  "category": "Fruits",
+  "subCategory": "",
+  "price": 350,
+  "originalPrice": 450,
+  "unit": "dozen",
+  "quantity": 25,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://www.anishfarms.com/wp-content/uploads/2019/01/6.jpg"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 5,
+  "numReviews": 18,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d393a"
+  },
+  "name": "Organic Spinach (Palak)",
+  "slug": "organic-spinach-palak",
+  "description": "Fresh, tender organic spinach leaves",
+  "longDescription": "Nutrient-rich organic spinach grown without pesticides. Perfect for salads and cooking.",
+  "category": "Vegetables",
+  "subCategory": "",
+  "price": 30,
+  "originalPrice": 40,
+  "unit": "bunch",
+  "quantity": 100,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://www.greendna.in/cdn/shop/files/babyspinach_1504x.jpg?v=1715600352"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4,
+  "numReviews": 12,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d393b"
+  },
+  "name": "Organic Tomatoes",
+  "slug": "organic-tomatoes",
+  "description": "Juicy, vine-ripened organic tomatoes",
+  "longDescription": "Farm-fresh organic tomatoes with rich flavor. Grown using natural farming methods.",
+  "category": "Vegetables",
+  "subCategory": "",
+  "price": 40,
+  "originalPrice": 50,
+  "unit": "kg",
+  "quantity": 60,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/d5673d4f-5d68-4129-9181-e96152253570.png"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.3,
+  "numReviews": 9,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d393c"
+  },
+  "name": "Organic Carrots",
+  "slug": "organic-carrots",
+  "description": "Sweet and crunchy organic carrots",
+  "longDescription": "Freshly harvested organic carrots rich in beta-carotene and antioxidants.",
+  "category": "Vegetables",
+  "subCategory": "",
+  "price": 50,
+  "originalPrice": 65,
+  "unit": "kg",
+  "quantity": 80,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.4,
+  "numReviews": 14,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d393d"
+  },
+  "name": "Organic Turmeric Powder",
+  "slug": "organic-turmeric-powder",
+  "description": "Pure organic turmeric powder with high curcumin content",
+  "longDescription": "Made from sun-dried organic turmeric rhizomes. Known for its medicinal properties and vibrant color.",
+  "category": "Spices",
+  "subCategory": "",
+  "price": 180,
+  "originalPrice": 220,
+  "unit": "kg",
+  "quantity": 15,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://www.greendna.in/cdn/shop/files/turmeric-1-1030x687_1030x.jpg?v=1714732257"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.8,
+  "numReviews": 32,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d393e"
+  },
+  "name": "Organic Black Pepper",
+  "slug": "organic-black-pepper",
+  "description": "Whole organic black peppercorns",
+  "longDescription": "Premium quality organic black pepper with intense aroma and flavor.",
+  "category": "Spices",
+  "subCategory": "",
+  "price": 380,
+  "originalPrice": 450,
+  "unit": "kg",
+  "quantity": 20,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://www.greendna.in/cdn/shop/products/where-does-black-pepper-come-from_1000x.jpg?v=1560959604"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.9,
+  "numReviews": 27,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d393f"
+  },
+  "name": "Organic Cumin Seeds (Jeera)",
+  "slug": "organic-cumin-seeds-jeera",
+  "description": "Aromatic organic cumin seeds",
+  "longDescription": "Premium quality organic cumin seeds with rich earthy flavor. Essential for Indian cuisine.",
+  "category": "Spices",
+  "subCategory": "",
+  "price": 220,
+  "originalPrice": 280,
+  "unit": "kg",
+  "quantity": 30,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://www.greendna.in/cdn/shop/products/cumin1_1000x.jpg?v=1561041488"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.7,
+  "numReviews": 18,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3940"
+  },
+  "name": "Organic Red Chili (Lal Mirchi)",
+  "slug": "organic-red-chili-lal-mirchi",
+  "description": "Whole dried organic red chilies",
+  "longDescription": "Premium quality dried red chilies with perfect heat level. Grown organically without chemicals.",
+  "category": "Mirchi",
+  "subCategory": "",
+  "price": 280,
+  "originalPrice": 350,
+  "unit": "kg",
+  "quantity": 35,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://i0.wp.com/veganicmart.com/wp-content/uploads/2022/09/lal-mirchi.jpg?fit=510%2C510&ssl=1"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.8,
+  "numReviews": 16,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3941"
+  },
+  "name": "Fresh Green Chili (Hari Mirchi)",
+  "slug": "fresh-green-chili-hari-mirchi",
+  "description": "Fresh organic green chilies",
+  "longDescription": "Freshly picked organic green chilies. Spicy and perfect for daily cooking.",
+  "category": "Mirchi",
+  "subCategory": "",
+  "price": 60,
+  "originalPrice": 80,
+  "unit": "kg",
+  "quantity": 50,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/9b4cd95e-3f9e-4305-92a0-16d9875c6b4d.png"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.6,
+  "numReviews": 12,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3942"
+  },
+  "name": "Byadgi Red Chili",
+  "slug": "byadgi-red-chili",
+  "description": "Premium Byadgi variety red chilies",
+  "longDescription": "Famous Byadgi chilies known for their deep red color and moderate heat.",
+  "category": "Mirchi",
+  "subCategory": "",
+  "price": 320,
+  "originalPrice": 400,
+  "unit": "kg",
+  "quantity": 20,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://devagisanmugam.com/wp-content/uploads/2024/01/bydagi-chillies-1140x1140.jpg"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.9,
+  "numReviews": 8,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3943"
+  },
+  "name": "Kashmiri Red Chili",
+  "slug": "kashmiri-red-chili",
+  "description": "Mild and aromatic Kashmiri red chilies",
+  "longDescription": "Known for their vibrant red color and mild heat. Perfect for Kashmiri cuisine.",
+  "category": "Mirchi",
+  "subCategory": "",
+  "price": 350,
+  "originalPrice": 450,
+  "unit": "kg",
+  "quantity": 15,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://tulua.shop/cdn/shop/files/KashmiriChilliWhole.jpg?v=1740206188"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.9,
+  "numReviews": 11,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3944"
+  },
+  "name": "Chili Powder (Lal Mirchi Powder)",
+  "slug": "chili-powder-lal-mirchi-powder",
+  "description": "Pure organic red chili powder",
+  "longDescription": "Made from premium organic red chilies. Perfect for adding heat and color to dishes.",
+  "category": "Mirchi",
+  "subCategory": "",
+  "price": 180,
+  "originalPrice": 230,
+  "unit": "kg",
+  "quantity": 40,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/2/KM/NU/QK/51747533/akc-red-chili-powder-lal-mirch-powder.JPG"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.7,
+  "numReviews": 23,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3945"
+  },
+  "name": "Organic Almonds",
+  "slug": "organic-almonds",
+  "description": "Premium California organic almonds",
+  "longDescription": "High-quality organic almonds rich in vitamin E and healthy fats.",
+  "category": "Dry Fruits",
+  "subCategory": "",
+  "price": 450,
+  "originalPrice": 550,
+  "unit": "kg",
+  "quantity": 29,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/4/LM/RD/PF/121019584/organic-almonds-nut-500x500.jpg"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.7,
+  "numReviews": 21,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:08:35.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3946"
+  },
+  "name": "Organic Cashews",
+  "slug": "organic-cashews",
+  "description": "Premium whole organic cashews",
+  "longDescription": "Creamy and delicious organic cashews. Perfect for snacking and cooking.",
+  "category": "Dry Fruits",
+  "subCategory": "",
+  "price": 550,
+  "originalPrice": 650,
+  "unit": "kg",
+  "quantity": 25,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://www.greendna.in/cdn/shop/products/cashew22_1000x.jpg?v=1587645256"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.8,
+  "numReviews": 18,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3938"
+  },
+  "name": "Fresh Apples (Shimla)",
+  "slug": "fresh-apples-shimla",
+  "description": "Crisp and juicy Himalayan apples",
+  "longDescription": "Freshly harvested organic apples from the orchards of Shimla. Naturally sweet and crunchy.",
+  "category": "Fruits",
+  "subCategory": "",
+  "price": 180,
+  "originalPrice": 220,
+  "unit": "kg",
+  "quantity": 40,
+  "minOrderQuantity": 1,
+  "organic": false,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.3,
+  "numReviews": 9,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3939"
+  },
+  "name": "Organic Bananas",
+  "slug": "organic-bananas",
+  "description": "Sweet and nutritious organic bananas",
+  "longDescription": "Chemical-free bananas grown using natural farming methods.",
+  "category": "Fruits",
+  "subCategory": "",
+  "price": 60,
+  "originalPrice": 80,
+  "unit": "dozen",
+  "quantity": 60,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1603833665858-e61d17a86224?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.6,
+  "numReviews": 22,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3947"
+  },
+  "name": "Organic Walnuts",
+  "slug": "organic-walnuts",
+  "description": "Premium organic walnut kernels",
+  "longDescription": "Brain-shaped walnuts rich in omega-3 fatty acids and antioxidants.",
+  "category": "Dry Fruits",
+  "subCategory": "",
+  "price": 480,
+  "originalPrice": 580,
+  "unit": "kg",
+  "quantity": 20,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.6,
+  "numReviews": 14,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d133615f54002d3948"
+  },
+  "name": "Organic Pistachios",
+  "slug": "organic-pistachios",
+  "description": "Premium organic pistachio kernels",
+  "longDescription": "Premium quality organic pistachios with rich flavor and vibrant green color.",
+  "category": "Dry Fruits",
+  "subCategory": "",
+  "price": 650,
+  "originalPrice": 780,
+  "unit": "kg",
+  "quantity": 15,
+  "minOrderQuantity": 1,
+  "organic": true,
+  "harvestDate": {
+    "$date": "2026-04-11T13:00:00.828Z"
+  },
+  "quality": "A",
+  "images": [
+    "https://images.unsplash.com/photo-1600348759986-4bb68e7cd1b5?w=600"
+  ],
+  "farmer": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "isAvailable": true,
+  "isApproved": true,
+  "rating": 4.9,
+  "numReviews": 20,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:01.347Z"
+  },
+  "__v": 0
+}]

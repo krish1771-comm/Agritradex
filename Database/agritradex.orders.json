@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "69da47d34a34165a332ae5d1"
+  },
+  "orderNumber": "AGR202604119789",
+  "buyer": {
+    "$oid": "69da45d033615f54002d392f"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "69da45d133615f54002d3945"
+      },
+      "name": "Organic Almonds",
+      "price": 450,
+      "quantity": 1,
+      "unit": "kg",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/LM/RD/PF/121019584/organic-almonds-nut-500x500.jpg",
+      "farmer": {
+        "$oid": "69da45d033615f54002d392e"
+      },
+      "_id": {
+        "$oid": "69da47d34a34165a332ae5d2"
+      }
+    }
+  ],
+  "totalAmount": 450,
+  "shippingAddress": {
+    "fullName": "Priya Sharma",
+    "phone": "9876543213",
+    "address": "123 Customer Street",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001"
+  },
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "trackingNumber": "",
+  "notes": "",
+  "createdAt": {
+    "$date": "2026-04-11T13:08:35.125Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:08:35.125Z"
+  },
+  "__v": 0
+}]

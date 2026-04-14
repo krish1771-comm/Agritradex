@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "69d9f6abddbb55c7d260fa14"
+  },
+  "product": {
+    "$oid": "69d9f661913c946003afbb61"
+  },
+  "user": {
+    "$oid": "69d9f660913c946003afbb4c"
+  },
+  "rating": 5,
+  "title": "",
+  "comment": "sgerg",
+  "images": [],
+  "verified": false,
+  "helpful": 0,
+  "createdAt": {
+    "$date": "2026-04-11T07:22:19.997Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T07:22:19.997Z"
+  },
+  "__v": 0
+}]

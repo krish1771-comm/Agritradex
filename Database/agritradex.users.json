@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "69da45d033615f54002d392c"
+  },
+  "name": "Admin User",
+  "email": "admin@agritradex.com",
+  "password": "$2a$10$ZY8GOwDG1XaMDOoJ1ARQ1.rNVWyJCFFP8YYMXEOZjSp0I4GHiKYdG",
+  "role": "admin",
+  "phone": "9876543210",
+  "profileImage": "",
+  "address": {
+    "street": "123 Admin Street",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360001"
+  },
+  "farmDetails": {
+    "farmName": "",
+    "farmAddress": "",
+    "landSize": 0,
+    "experience": 0,
+    "crops": [],
+    "certifications": [],
+    "description": ""
+  },
+  "isVerified": true,
+  "verificationDocs": {
+    "aadharNumber": "",
+    "aadharDoc": "",
+    "panNumber": "",
+    "panDoc": ""
+  },
+  "rating": 0,
+  "totalReviews": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d033615f54002d392d"
+  },
+  "name": "Harpreet Singh",
+  "email": "farmer@agritradex.com",
+  "password": "$2a$10$0DQ9a1/jQLRqEzAy.3FFQ.aD4qnuNkNdn9CYLYt2eJ9OFl35r9P.G",
+  "role": "farmer",
+  "phone": "9876543211",
+  "profileImage": "",
+  "address": {
+    "street": "456 Farm Road",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": "141001"
+  },
+  "farmDetails": {
+    "farmName": "Singh Organic Farms",
+    "farmAddress": "Village Fatehgarh, Tehsil Jagraon",
+    "landSize": 25,
+    "experience": 15,
+    "crops": [
+      "Organic Rice",
+      "Organic Wheat",
+      "Organic Vegetables"
+    ],
+    "certifications": [
+      "India Organic",
+      "USDA Organic"
+    ],
+    "description": "Third-generation organic farmers practicing sustainable agriculture since 1985."
+  },
+  "isVerified": true,
+  "verificationDocs": {
+    "aadharNumber": "",
+    "aadharDoc": "",
+    "panNumber": "",
+    "panDoc": ""
+  },
+  "rating": 0,
+  "totalReviews": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d033615f54002d392e"
+  },
+  "name": "Ramesh Patel",
+  "email": "farmer2@agritradex.com",
+  "password": "$2a$10$ZGwz.iAoZanuouDvKiaWF.nTnPw6q4KTsDfUyqIye11mCbH3Z8yyC",
+  "role": "farmer",
+  "phone": "9876543212",
+  "profileImage": "",
+  "address": {
+    "street": "789 Orchard Road",
+    "city": "Nasik",
+    "state": "Maharashtra",
+    "pincode": "422001"
+  },
+  "farmDetails": {
+    "farmName": "Patel Organic Orchards",
+    "farmAddress": "Gangapur Road, Nasik",
+    "landSize": 15,
+    "experience": 12,
+    "crops": [
+      "Organic Grapes",
+      "Organic Mangoes",
+      "Organic Vegetables"
+    ],
+    "certifications": [
+      "India Organic"
+    ],
+    "description": "Specializing in organic Alphonso mangoes and table grapes."
+  },
+  "isVerified": true,
+  "verificationDocs": {
+    "aadharNumber": "",
+    "aadharDoc": "",
+    "panNumber": "",
+    "panDoc": ""
+  },
+  "rating": 0,
+  "totalReviews": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69da45d033615f54002d392f"
+  },
+  "name": "Priya Sharma",
+  "email": "buyer@agritradex.com",
+  "password": "$2a$10$56HgOqQ.MwkCU6tcesILAO2Y.RhVNYN1BEkHB1cpkM0hdIU.dYpbW",
+  "role": "buyer",
+  "phone": "9876543213",
+  "profileImage": "",
+  "address": {
+    "street": "123 Customer Street",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001"
+  },
+  "farmDetails": {
+    "farmName": "",
+    "farmAddress": "",
+    "landSize": 0,
+    "experience": 0,
+    "crops": [],
+    "certifications": [],
+    "description": ""
+  },
+  "isVerified": true,
+  "verificationDocs": {
+    "aadharNumber": "",
+    "aadharDoc": "",
+    "panNumber": "",
+    "panDoc": ""
+  },
+  "rating": 0,
+  "totalReviews": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T13:00:00.959Z"
+  },
+  "__v": 0
+}]
