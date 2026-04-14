@@ -1,0 +1,34 @@
+/* Only custom styles that Bootstrap doesn't provide */
+.hover-shadow:hover {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  transition: box-shadow .3s ease-in-out;
+}
+
+.transition {
+  transition: all .3s ease-in-out;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* For product card image consistency */
+.product-image {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Line clamp for text */
+.line-clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
